@@ -1,4 +1,4 @@
-## Oii, eu sou a Luiza! 🦋
+## Oii, eu sou a Luiza! ✨💻
 - 📚 Hoje estou na 2º fase de **engenharia de telecomunicações**
 - 🌱 Estudando C
 - 👩‍🦰 Pronomes: ela/dela
