@@ -2,6 +2,7 @@
 - 📚 Hoje estou na 2º fase de **engenharia de telecomunicações**
 - 🌱 Estudando C
 - 👩‍🦰 Pronomes: ela/dela
+- 🐶 A foto é da Lili!
 
 <br>
  
