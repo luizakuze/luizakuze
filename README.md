@@ -2,7 +2,7 @@
   
 ## Oii, eu sou a Luiza!
 - 📚 Hoje estou na 2º fase de **engenharia de telecomunicações**
-- 🌱 Estudando C e C#
+- 🌱 Estudando C, C# e Unity
 - 🐶 A foto de perfil é da Lili 💕
 
 ## Ferramentas 
