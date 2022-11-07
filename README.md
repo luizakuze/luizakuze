@@ -3,7 +3,6 @@
 ## Oii, eu sou a Luiza!
 - 📚 Hoje estou na 2º fase de **engenharia de telecomunicações**
 - 🌱 Estudando C, C# e Unity
-- 🐶 A foto de perfil é da Lili 💕
 
 ## Ferramentas 
 <img align="left" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
