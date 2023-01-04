@@ -2,7 +2,7 @@
   
 ## Oii, eu sou a Luiza!
 - 📚 Hoje estou na 3º fase de **engenharia de telecomunicações**
-- 🌱 Estudando C e Banco de Dados SQL
+- 🌱 Estudando C++ e Banco de Dados SQL
 
 ## Ferramentas 
 <img align="left" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
