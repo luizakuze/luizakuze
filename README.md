@@ -3,6 +3,7 @@
 ## Oii, eu sou a Luiza!
 - 📚 Cursando **engenharia de telecomunicações**.
 - 🌱 Estudo atual: Estrutura de dados em C++
+- ❤ Primeiro contato com programação em 2022!
 
 ## Ferramentas 
 <img align="left" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
