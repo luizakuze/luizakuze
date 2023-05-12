@@ -2,8 +2,10 @@
   
 ## Oii, eu sou a Luiza!
 - 📚 Cursando **engenharia de telecomunicações**.
-- 🌱 Estudo atual: Estrutura de dados em C++
+- 🦋 Estudo atual: Estrutura de dados em C++
 - ❤ Primeiro contato com programação em 2022!
+- 🌱 No processo de conhecer as diferentes áreas <br> da programação e encontrar a minha. ✨
+
 ## Ferramentas 
 <img align="left" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
 <img align="left" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
@@ -15,4 +17,3 @@
 ## Contato
 
 [![Badge LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizakuze/)
-<a href="luizakuze08@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
