@@ -1,12 +1,17 @@
-  <img style="margin-top: 40px;" align="right" width="350px" src="https://cdn.discordapp.com/attachments/978456290428862516/1026273770438139985/octocat-1664753123951.png">
+  <img style="margin-top: 40px;" align="right" width="400px" src="https://cdn.discordapp.com/attachments/978456290428862516/1026273770438139985/octocat-1664753123951.png">
   
 ## Oii, eu sou a Luiza!
 - 📚 Cursando **engenharia de telecomunicações**.
 - 🌱 Estudo atual: Estrutura de dados em C++
 - ❤ Primeiro contato com programação em 2022!
-
 ## Ferramentas 
-<img align="left" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-<img align="left" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-<img align="left" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img align="left" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+<img align="left" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+<img align="left" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+<img align="left" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+
+<br> <br> <br>
+
+## Contato
+
+[![Badge LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizakuze/)
+[![Badge Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/#inbox?compose=CllgCJqVwxSmtGThKZnfBgdCPKCtRrGPrbPKtKwJgPrsQGVjVVldMfjCwPrVfBBGmVgrFqSGnBV)
