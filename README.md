@@ -5,7 +5,7 @@
 - 📚 Studying **telecommunications engineering**.
 - 🦋 Current study: Data Structures in C++
 - ❤ First contact with programming in 2022!
-- 🌱 In the process of exploring different areas <br> of programming and finding my path. ✨
+- 🌱 In the process of exploring different areas <br> of programming and finding my own. ✨
 
 ## Tools 
 <img align="left" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
