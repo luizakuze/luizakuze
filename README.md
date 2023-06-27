@@ -1,12 +1,13 @@
   <img style="margin-top: 40px;" align="right" width="400px" src="https://cdn.discordapp.com/attachments/978456290428862516/1026273770438139985/octocat-1664753123951.png">
-  
-## Oii, eu sou a Luiza!
-- 📚 Cursando **engenharia de telecomunicações**.
-- 🦋 Estudo atual: Estrutura de dados em C++
-- ❤ Primeiro contato com programação em 2022!
-- 🌱 No processo de conhecer as diferentes áreas <br> da programação e encontrar a minha. ✨
 
-## Ferramentas 
+## Hi, I'm Luiza!
+
+- 📚 Studying **telecommunications engineering**.
+- 🦋 Current study: Data Structures in C++
+- ❤ First contact with programming in 2022!
+- 🌱 In the process of exploring different areas <br> of programming and finding my path. ✨
+
+## Tools 
 <img align="left" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
 <img align="left" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 <img align="left" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
