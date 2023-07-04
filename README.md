@@ -3,7 +3,7 @@
 ## Hi, I'm Luiza!
 
 - 📚 Studying **telecommunications engineering**.
-- 🦋 Current study: html and css
+- 🦋 Current study: java and javascript.
 - ❤ First contact with programming in 2022!
 - 🌱 In the process of exploring different areas <br> of programming and finding my own. ✨
 
