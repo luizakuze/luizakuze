@@ -1,9 +1,9 @@
-  <img style="margin-top: 40px;" align="right" width="250px" src="https://cdn.discordapp.com/attachments/978456290428862516/1026273770438139985/octocat-1664753123951.png">
 
-## Hi, I'm Luiza!
 
-- 📚 Studying **telecommunications engineering**.
-- 🦋 Current study: java.
-- ❤ First contact with programming in 2022!
-- 🌱 In the process of exploring different areas <br> of programming and finding my own. ✨
+<div align="center">
 
+
+<img src="https://github.com/luizakuze/luizakuze/assets/111708035/097c1c97-c98d-4c45-80c8-e388617c9fb9" width="500px" align="center">
+
+
+</div>
