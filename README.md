@@ -1,9 +1,7 @@
 
 
 <div align="center">
-
-
-<img src="https://github.com/luizakuze/luizakuze/assets/111708035/097c1c97-c98d-4c45-80c8-e388617c9fb9" width="500px" align="center">
+<img src="https://github.com/luizakuze/luizakuze/assets/111708035/ab430cbf-a8ed-4992-8627-ca6c6c613b27" width="700px" align="center">
 
 
 </div>
