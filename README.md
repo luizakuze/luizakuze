@@ -22,3 +22,12 @@
 <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </div>
+
+
+
+</div>
+
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=luizakuze&color=ff69b4&style=for-the-badge">
+</div>
