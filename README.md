@@ -1,12 +1,10 @@
 <div align="center">
-  <h1>hi, I'm luiza! 🦋</h1>
+  <h1>Olá, sou a Luiza! 🦋</h1>
 </div>
 
 
 <div align="center">
-  
-<img src="https://github.com/luizakuze/luizakuze/assets/111708035/a919f2d3-8827-4dfe-a039-e32c608ccad0" width="700px" align="center">
-
+<img src="https://github.com/luizakuze/luizakuze/assets/111708035/56a5b99d-9650-4741-b8fb-3943f0ad7454" width="700px" align="center">
 
 </div>
 
