@@ -4,7 +4,11 @@
 
 
 <div align="center">
-<img src="https://github.com/luizakuze/luizakuze/assets/111708035/56a5b99d-9650-4741-b8fb-3943f0ad7454" width="700px" align="center">
+  
+
+<img src="https://github.com/luizakuze/luizakuze/assets/111708035/640a0905-4b0f-42ff-882b-11050de654e5" width="700px" align="center">
+
+
 
 </div>
 
