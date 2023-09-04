@@ -1,28 +1,23 @@
-<div align="center">
-  <h1>Olá, sou a Luiza! 🦋</h1>
+
+  <h1>Oii, eu sou a Luiza! </h1>
 </div>
 
+<img src="https://github.com/luizakuze/luizakuze/assets/111708035/3c97d103-8074-4391-a878-70b1a8415d49" width="400px" align="right">
+<h2> <img src="https://github.com/luizakuze/luizakuze/assets/111708035/b35ab7b5-4644-47e1-a2cf-9f899f4b6e91" width="50px" align="left">  Sobre mim </h2>
 
-<div align="center">
+-  Estudante de engenharia de telecomunicações - IFSC 📡
+- Amo tecnologia e jogos! 🕹
+-  Primeiro contato com programação em 2022 💗
+- Tive a experiência de monitoria de programação na faculdade 💻
+
+<h2> <img src="https://github.com/luizakuze/luizakuze/assets/111708035/b35ab7b5-4644-47e1-a2cf-9f899f4b6e91" width="50px" align="left"> Linguagens </h2>
+
+- Linguagens favoritas: Java e C++ 📚
+- Ferramentas principais: Git, VScode e Slack 🕶
+- Estudo atual: POO  🌱
+<div align="right">
   
-
-<img src="https://github.com/luizakuze/luizakuze/assets/111708035/640a0905-4b0f-42ff-882b-11050de654e5" width="700px" align="center">
-
-
+_todo dia procurando um novo<br>
+problema para resolver! 😜_
 
 </div>
-
-
-<div align="center">
-
-<br>
-  
-<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white " />
-<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-</div>
-
-
