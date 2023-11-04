@@ -21,6 +21,6 @@
 
 <h2> <img src="https://github.com/luizakuze/luizakuze/assets/111708035/b35ab7b5-4644-47e1-a2cf-9f899f4b6e91" width="45px" align="left"> Projetos </h2>
   
-
-- [**Contabilizador Financeiro**](https://github.com/luizakuze/Contabilizador-Financeiro/tree/main) 💼
 - [**Melhor Caminho**](https://github.com/luizakuze/Melhor-Caminho) 🚗
+- [**Relógio Digital**](https://github.com/luizakuze/Digital-Clock) ⏰
+- [**Contabilizador Financeiro**](https://github.com/luizakuze/Contabilizador-Financeiro) 💼
