@@ -9,11 +9,6 @@
 - Primeiro contato com programação em 2022 💗
 - Um passatempo é resolver problemas do [Beecrowd](https://www.beecrowd.com.br/judge/pt/profile/667397) 🐝
 - Fui monitora de programação na faculdade 💻
-
-<h2> <img src="https://github.com/luizakuze/luizakuze/assets/111708035/b35ab7b5-4644-47e1-a2cf-9f899f4b6e91" width="45px" align="left"> Linguagens </h2>
-
-- Linguagens favoritas: Java e C++ 📚
-- Ferramentas principais: Git, VScode e Slack 🕶
 - Estudo atual: POO  🌱
 
 <div align="right">
