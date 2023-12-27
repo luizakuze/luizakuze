@@ -6,7 +6,6 @@
 - Primeiro contato com programação em 2022 💗
 - Um passatempo é resolver problemas do [Beecrowd](https://www.beecrowd.com.br/judge/pt/profile/667397) 🐝
 - Fui monitora de programação na faculdade 💻
-- Estudo atual: POO  🌱
 
 <div align="right">
 </div>
