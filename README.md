@@ -30,14 +30,7 @@
                     <li><a href="https://github.com/luizakuze/Digital-Clock">Relógio Digital</a> ⏰</li>
                     <li><a href="https://github.com/luizakuze/Contabilizador-Financeiro">Contabilizador Financeiro</a> 💼</li>
                 </ul>
-            </td>
-             <td> 
-                <ul>
-            <div class="image-container">
-            <img src="https://github.com/luizakuze/luizakuze/assets/111708035/3c97d103-8074-4391-a878-70b1a8415d49" width="160px">
-        </div>
-                </ul>
-            </td>
+            </td>  
         </tr>
 </body>
 </html>
