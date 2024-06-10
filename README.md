@@ -34,7 +34,7 @@
              <td> 
                 <ul>
             <div class="image-container">
-            <img src="https://github.com/luizakuze/luizakuze/assets/111708035/3c97d103-8074-4391-a878-70b1a8415d49" width="200px">
+            <img src="https://github.com/luizakuze/luizakuze/assets/111708035/3c97d103-8074-4391-a878-70b1a8415d49" width="160px">
         </div>
                 </ul>
             </td>
