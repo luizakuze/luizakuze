@@ -1,6 +1,6 @@
 # Oi! Eu sou a Luiza  🌸
 
-<img src="./images/flower.png" align="right" width="400"/>
+<img src="./images/flower.png" align="right" width="300"/>
 
 📚 **Faculdade**: Estudante de Engenharia de Telecomunicações no [IFSC - Instituto Federal de Santa Catarina](https://www.ifsc.edu.br/en/inicio). Cheque meu repositório contendo alguns dos meus [estudos do curso](https://github.com/luizakuze/Engenharia-Telecom).
 
