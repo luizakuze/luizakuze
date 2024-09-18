@@ -1,4 +1,4 @@
-# Olá! Eu sou a Luiza  🌸
+# Oi! Eu sou a Luiza  🌸
 
 <img src="./images/flower.png" align="right" width="400"/>
 
