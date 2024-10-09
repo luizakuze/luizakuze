@@ -4,9 +4,9 @@
 
 📚 **Faculdade**: Estudante de Engenharia de Telecomunicações no [IFSC - Instituto Federal de Santa Catarina](https://www.ifsc.edu.br/en/inicio). Cheque meu repositório contendo alguns dos meus [estudos do curso](https://github.com/luizakuze/Engenharia-Telecom).
 
-🌱 **Monitora de Programação**: Atuei como monitora nas disciplinas de Pensamento Computacional e Programação Orientada a Objetos. 
+💻 **P&D**: Atuo em pesquisa e desenvolvimento, com foco em segurança da informação. Trabalho com gestão de identidade (IAM), Keycloak e Springboot. Para mais detalhes, você pode conferir o meu perfil no [LinkedIn](https://www.linkedin.com/in/luizakuze/).
 
-💻 **P&D**: Envolvida com pesquisa e desenvolvimento, no meu [LinkedIn](https://www.linkedin.com/in/luizakuze/) há mais detalhes.
+🌱 **Monitora de Programação**: Atuei como monitora nas disciplinas de Pensamento Computacional e Programação Orientada a Objetos. 
 
 🐞 **Beecrowd e LeetCode**: Adoro resolver problemas de algoritmo em plataformas como [Beecrowd](https://www.beecrowd.com.br/judge/pt/profile/667397) e [LeetCode](https://leetcode.com/u/luizakuze/).
 
