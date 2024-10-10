@@ -1,4 +1,4 @@
-<h1>Oi! Eu sou a Luiza! <img src="./images/flower.gif" width="50"/></h1>
+# Oi! Eu sou a Luiza 🌸
 
 <img src="./images/flower.png" align="right" width="300"/>
 
