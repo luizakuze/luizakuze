@@ -4,7 +4,7 @@
 
 📚 **Faculdade**: Estudante de Engenharia de Telecomunicações no [IFSC - Instituto Federal de Santa Catarina](https://www.ifsc.edu.br/en/inicio). Cheque meu repositório contendo alguns dos meus [estudos do curso](https://github.com/luizakuze/Engenharia-Telecom).
 
-💻 **P&D**: Atualmente, estou estudando segurança da informação com foco em gestão de identidade, conhecendo novas tecnologias como Spring Security, Spring Boot, Spring JPA, Keycloak, OAuth2 e OIDC. Para mais detalhes da minha trajetória, você pode conferir o meu perfil no [LinkedIn](https://www.linkedin.com/in/luizakuze/).
+💻 **Pesquisa**: Estou estudando gestão de identidade, com foco em tecnologias como Spring, OAuth2, OIDC e SAML. Confira minha organização do GitHub contendo meus [estudos da pesquisa](https://github.com/iam-ifsc). Para mais detalhes da minha trajetória, você pode conferir o meu perfil no [LinkedIn](https://www.linkedin.com/in/luizakuze/).
 
 🌱 **Monitora de Programação**: Atuei como monitora nas disciplinas de Pensamento Computacional e Programação Orientada a Objetos. 
 
