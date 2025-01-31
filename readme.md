@@ -1,16 +1,19 @@
-# Oi! Eu sou a Luiza 🌸
+# Hi! I'm Luiza 🌸
 
 <img src="./images/flower.png" align="right" width="300"/>
 
-📚 **Faculdade**: Estudante de Engenharia de Telecomunicações no [IFSC - Instituto Federal de Santa Catarina](https://www.ifsc.edu.br/en/inicio). Cheque meu repositório contendo alguns dos meus [estudos do curso](https://github.com/luizakuze/Engenharia-Telecom).
+📚 **University**: Telecommunications Engineering student at [IFSC - Federal Institute of Santa Catarina](https://www.ifsc.edu.br/en/inicio). Check out my repository wt some of my [course studies](https://github.com/luizakuze/Engenharia-Telecom).
 
-💻 **Pesquisa**: Estou estudando gestão de identidade, com foco em tecnologias como Spring, OAuth2, OIDC e SAML. Confira minha organização do GitHub contendo meus [estudos da pesquisa](https://github.com/iam-ifsc). Para mais detalhes da minha trajetória, você pode conferir o meu perfil no [LinkedIn](https://www.linkedin.com/in/luizakuze/).
+💻 **Research**: Currently, I’m part of [GIdLab](https://rnpmais.rnp.br/gidlab), a platform dedicated to experimentation in Software-Defined Networks (SDN) research. For more details on my background, you can visit my profile on [LinkedIn](https://www.linkedin.com/in/luizakuze/).
 
-🌱 **Monitora de Programação**: Atuei como monitora nas disciplinas de Pensamento Computacional e Programação Orientada a Objetos. 
+🌱 **Teaching Assistant**: I worked as a teaching assistant for the Computational Thinking and Object-Oriented Programming courses.
 
-🐞 **Beecrowd e LeetCode**: Adoro resolver problemas de algoritmo em plataformas como [Beecrowd](https://www.beecrowd.com.br/judge/pt/profile/667397) e [LeetCode](https://leetcode.com/u/luizakuze/).
+🐞 **Beecrowd and LeetCode**: Solving algorithm problems on platforms like [Beecrowd](https://www.beecrowd.com.br/judge/pt/profile/667397) and [LeetCode](https://leetcode.com/u/luizakuze/) is one of my hobbies.
 
-🛠️ **Tecnologias e Ferramentas**: 
+🔑 **Key Words**: `Computer Networks`, `Information Security` and `Identity Management`.
+
+
+🛠️ **Technologies and Tools**:  
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge"/>
