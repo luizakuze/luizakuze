@@ -10,7 +10,7 @@
 
 🐞 **Beecrowd and LeetCode**: Solving algorithm problems on platforms like [Beecrowd](https://www.beecrowd.com.br/judge/pt/profile/667397) and [LeetCode](https://leetcode.com/u/luizakuze/) is one of my hobbies.
 
-🔑 **Key Words**: `Computer Networks`, `Information Security` and `Identity Management`.
+🔑 **Keywords**: `Computer Networks`, `Information Security` and `Identity Management`.
 
 
 🛠️ **Technologies and Tools**:  
