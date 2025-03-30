@@ -1,6 +1,6 @@
-# Hi! I'm Luiza 🌸
+# Hi! I'm Luiza 🦋
 
-<img src="./images/flower.png" align="right" width="300"/>
+<img src="./images/sky.png" align="right" width="300"/>
 
 📚 **University**: Telecommunications Engineering student at [IFSC - Federal Institute of Santa Catarina](https://www.ifsc.edu.br/en/inicio). Check out my repository wt some of my [course studies](https://github.com/luizakuze/Engenharia-Telecom).
 
